@@ -14,7 +14,7 @@
     src: url('fonts/SourceCodePro-Regular.otf.woff') format('woff');
 }
 
-@font-face{
+@s-face{
     font-family: 'Source Sans Pro';
     font-weight: 100;
     font-style: normal;
