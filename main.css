@@ -381,3 +381,15 @@ tr:nth-child(even) td {
         font-size: 14px;
     }
 }
+
+/* --- Crop Images --------------------------------------------------------- */
+.image-cropper {
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  img {
+    display: inline;
+    width: auto;
+    text-align: center;
+  }
